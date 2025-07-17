@@ -1,7 +1,7 @@
 # PG Diploma - Data Science Coursework
 ## This repo has all the files related to PG Diploma - Data Science Coursework
 
-## Each branch refers to a Machine Learning Algorithm implementation
+## Below are Machine Learning Algorithm, Techniques implemented
 
 - EDA Case Study
 - Clustering
